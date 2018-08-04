@@ -29,7 +29,7 @@ namespace ContactDAL
                 using (conn)
                 {
 
-                    string sqlInserString = "exec SPInsertContacts @FirstName,@LastName,@Email,@PhoneNumber,@Status ";
+                    string sqlInserString = "exec SPInsertContacts @FirstName,@LastName,@Email,@PhoneNumber,@AddressLine1,@AddressLine2,@City,@PinCode,@State,@Country,@Status ";
 
                     conn = new SqlConnection(connString);
 
