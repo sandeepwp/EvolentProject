@@ -1,0 +1,11 @@
+F:\Interview\Evolent\Contacts\MyContacts\ContactDAL\obj\Debug\ContactDAL.csprojAssemblyReference.cache
+F:\Interview\Evolent\Contacts\MyContacts\ContactDAL\obj\Debug\ContactDAL.csproj.CoreCompileInputs.cache
+F:\Interview\Evolent\Contacts\MyContacts\ContactDAL\bin\Debug\ContactDAL.dll
+F:\Interview\Evolent\Contacts\MyContacts\ContactDAL\bin\Debug\ContactDAL.pdb
+F:\Interview\Evolent\Contacts\MyContacts\ContactDAL\bin\Debug\ContactBL.dll
+F:\Interview\Evolent\Contacts\MyContacts\ContactDAL\bin\Debug\ErrorHandler.dll
+F:\Interview\Evolent\Contacts\MyContacts\ContactDAL\bin\Debug\ContactBL.pdb
+F:\Interview\Evolent\Contacts\MyContacts\ContactDAL\bin\Debug\ErrorHandler.pdb
+F:\Interview\Evolent\Contacts\MyContacts\ContactDAL\obj\Debug\ContactDAL.csproj.CopyComplete
+F:\Interview\Evolent\Contacts\MyContacts\ContactDAL\obj\Debug\ContactDAL.dll
+F:\Interview\Evolent\Contacts\MyContacts\ContactDAL\obj\Debug\ContactDAL.pdb

@@ -1,0 +1,5 @@
+F:\Interview\Evolent\Contacts\MyContacts\ContactBL\obj\Debug\ContactBL.csproj.CoreCompileInputs.cache
+F:\Interview\Evolent\Contacts\MyContacts\ContactBL\bin\Debug\ContactBL.dll
+F:\Interview\Evolent\Contacts\MyContacts\ContactBL\bin\Debug\ContactBL.pdb
+F:\Interview\Evolent\Contacts\MyContacts\ContactBL\obj\Debug\ContactBL.dll
+F:\Interview\Evolent\Contacts\MyContacts\ContactBL\obj\Debug\ContactBL.pdb
