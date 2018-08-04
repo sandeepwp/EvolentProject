@@ -10,7 +10,7 @@ This release include :
 
 		Design  : ProjectExercise/Evolent/Documentation/Design/Evolent - Coding Project.pdf
 
-		Release : ProjectExercise/Evolent/Documentation/Release/Web API Installation Steps.pdf
+		Release : ProjectExercise/Evolent/Documentation/Release/Web API Installation Steps.pdf ,  User Manual Evolent Web API.pdf
 
 	##Source Code - 
 
