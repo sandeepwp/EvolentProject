@@ -2,21 +2,21 @@ Hello Team,
 
 Completed testing for developed WEB API for maintaining contact information
 
-###This release include :
+This release include :
 
-##Database - ProjectExercise/Evolent/Database/MsSql/Seed/ContactDbObjects.sql
+	##Database - ProjectExercise/Evolent/Database/MsSql/Seed/ContactDbObjects.sql
 
-##Documentation -
+	##Documentation -
 
-Design  : ProjectExercise/Evolent/Documentation/Design/Evolent - Coding Project.pdf
+		Design  : ProjectExercise/Evolent/Documentation/Design/Evolent - Coding Project.pdf
 
-Release : ProjectExercise/Evolent/Documentation/Release/Web API Installation Steps.pdf
+		Release : ProjectExercise/Evolent/Documentation/Release/Web API Installation Steps.pdf
 
-##Source Code - 
+	##Source Code - 
 
-ProjectExercise/Evolent/Source/Contacts/MyContacts/
+		ProjectExercise/Evolent/Source/Contacts/MyContacts/
 
-Public GitHub repository location: https://github.com/sandeepwp/ProjectExercise/
+	##Public GitHub repository location: https://github.com/sandeepwp/ProjectExercise/
 
 Please note that unit test cases can be developed using N Unit. I will develope same if required.
 
