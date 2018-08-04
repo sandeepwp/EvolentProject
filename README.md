@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+Hello Team,
 
-You can use the [editor on GitHub](https://github.com/sandeepwp/EvolentProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Completed testing for developed WEB API for maintaining contact information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This release include :
 
-### Markdown
+Database - ProjectExercise/Evolent/Database/MsSql/Seed/ContactDbObjects.sql
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Documentation -
+Design  : ProjectExercise/Evolent/Documentation/Design/Evolent - Coding Project.pdf
+Release : ProjectExercise/Evolent/Documentation/Release/Web API Installation Steps.pdf
 
-```markdown
-Syntax highlighted code block
+Source - ProjectExercise/Evolent/Source/Contacts/MyContacts/
 
-# Header 1
-## Header 2
-### Header 3
+Public GitHub repository location: https://github.com/sandeepwp/ProjectExercise/
 
-- Bulleted
-- List
+Please note that unit test cases can be developed using N Unit. I will develope same if required.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sandeepwp/EvolentProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks and Best Regards,
+Sandeep Pawar
+Mob   : 7887737644
+Email : sandeep.pawar@live.in 
